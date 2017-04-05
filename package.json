@@ -1,0 +1,24 @@
+{
+  "name": "new_blog",
+  "version": "1.0.0",
+  "description": "Jinwook Kim's Blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinwookKim/new_blog.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Jinwook Kim",
+  "bugs": {
+    "url": "https://github.com/JinwookKim/new_blog/issues"
+  },
+  "homepage": "https://github.com/JinwookKim/new_blog#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
